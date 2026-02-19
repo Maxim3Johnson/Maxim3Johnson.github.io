@@ -2,7 +2,7 @@ baseURL = "https://Maxim3Johnson.github.io/"
 languageCode = "fr"
 title = "Maxime Johnson | Portfolio"
 theme = "Loveit"
-
+publishDir="docs"
 [params]
   # --- Tes paramètres d'origine ---
   defaultTheme = "auto"
