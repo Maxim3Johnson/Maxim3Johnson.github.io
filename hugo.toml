@@ -1,0 +1,59 @@
+baseURL = "https://Maxim3Johnson.github.io/"
+languageCode = "fr"
+title = "Maxime Johnson | Portfolio"
+theme = "Loveit"
+
+[params]
+  # --- Tes paramètres d'origine ---
+  defaultTheme = "auto"
+  gitRepo = ""
+  fingerprint = ""
+  dateFormat = "2006-01-02"
+  title = "Porteforlio"
+  description = "Maxime Johnson"
+  images = []
+
+  [params.author]
+    name = "Maxime Johnson"
+    email = ""
+    link = ""
+
+  # --- AJOUT : Ton profil Accueil ---
+  [params.home]
+    [params.home.profile]
+        enable = true
+        title = "Maxime Johnson"
+        subtitle = "Étudiant en BTS SIO"
+        social = true
+    [params.header]
+      [params.header.title]
+          # C'est ici que tu définis le nom en haut à gauche
+          name = "Portfolio"
+
+  # --- AJOUT : Ton lien LinkedIn ---
+  [params.social]
+    Linkedin = "https://www.linkedin.com/in/maxime-johnson-160227371"
+
+# --- AJOUT : Tes Onglets (Hors du bloc params) ---
+[[menu.main]]
+    identifier = "projects"
+    name = "Projets"
+    url = "/projects/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "internships"
+    name = "Stages"
+    url = "/internships/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 3
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
