@@ -2,4 +2,5 @@
 title: "Mes stages"
 ---
 
-TEST STAGES
+![carte](/images/carte.png)
+![trie](/images/trie.png)
