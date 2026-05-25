@@ -32,8 +32,6 @@ layout: "single"
 ![39](/images/gophish/39.png)
 ![40](/images/gophish/40.png)
 ![1](/images/gophish/1.png)
-![2](/images/gophish/2.png)
-![3](/images/gophish/3.png)
 ![9](/images/gophish/9.png)
 
 ![a](/images/gophish/a.png)
