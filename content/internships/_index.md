@@ -1,5 +1,6 @@
 ---
 title: "Mes stages"
+layout: "single"
 ---
 
 ![10](/images/gophish/10.png)
