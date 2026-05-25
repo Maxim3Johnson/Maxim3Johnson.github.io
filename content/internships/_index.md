@@ -2,7 +2,8 @@
 title: "Mes stages"
 layout: "single"
 ---
-
+![carte](/images/carte.png)
+![trie](/images/trie.png)
 ![10](/images/gophish/10.png)
 ![11](/images/gophish/11.png)
 ![12](/images/gophish/12.png)
