@@ -49,4 +49,3 @@ layout: "single"
 ![b](/images/gophish/b.png)
 ![c](/images/gophish/c.png)
 ![mtp](/images/gophish/mtp.png)
-![région](/images/gophish/région.png)
