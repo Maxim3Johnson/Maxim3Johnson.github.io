@@ -1,8 +1,12 @@
 ---
+title: "Mes Projets"
 layout: "single"
 ---
-<h1 style="text-align: left; margin-bottom: 30px;">Mon Curriculum Vitae</h1>
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 20px;">
-<div style="text-align: center;">
-    <img src="/images/cv_ano.png" style="width: 100%; max-width: 1000px; height: auto; border: 1px solid #ddd; border-radius: 8px;" alt="Mon CV">
-</div>
+
+![Wazuh](/images/iconno_wazuh1.png)
+![Wazuh 2](/images/wa2.png)
+![Wazuh 3](/images/wa3.png)
+![Wazuh 4](/images/wa4.png)
+![Centreon](/images/centreon.png)
+![OSPF](/images/ospf.png)
+![Ansible FOG](/images/ansifog_.png)
