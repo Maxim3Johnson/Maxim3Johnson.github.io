@@ -16,7 +16,6 @@ layout: "single"
 ![22](/images/gophish/22.png)
 ![24](/images/gophish/24.png)
 ![25](/images/gophish/25.png)
-![26](/images/gophish/26.png)
 ![27](/images/gophish/27.png)
 ![28](/images/gophish/28.png)
 ![29](/images/gophish/29.png)
