@@ -3,4 +3,4 @@ title: "Mon Curriculum Vitae"
 layout: "single"
 ---
 
-![Mon CV](/images/CV_annonyme.png)
+![Mon CV](/images/cv_ano.png)
